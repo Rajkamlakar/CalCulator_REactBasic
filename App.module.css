@@ -1,0 +1,10 @@
+.calculator{
+ 
+  border: solid 1px black;
+  border-radius: 5px;
+  width: 200px;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+
+}
+
+
